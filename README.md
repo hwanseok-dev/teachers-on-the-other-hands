@@ -3,20 +3,20 @@
 
 # 주제
 
-1. Java
-2. Spring/Spring Boot
-3. Maven
-4. 모니터링
-5. DB
-6. 개발환경
-7. 스타트업
+1. [Java][1]
+2. [Spring][2]
+3. [Maven][3]
+4. [Monitoring][4]
+5. [DB][5]
+6. [DevSetting][6]
+7. [Startup][7]
 
 # Java
 
 | 제목 | 작성날짜 | 작성자 |
 |:----|:----|:-----|
 
-# Spring/Spring Boot
+# Spring
 
 | 제목 | 작성날짜 | 작성자 |
 |:----|:----|:-----|
@@ -27,7 +27,7 @@
 | 제목 | 작성날짜 | 작성자 |
 |:----|:----|:-----|
 
-# 모니터링
+# Monitoring
 
 | 제목 | 작성날짜 | 작성자 |
 |:----|:----|:-----|
@@ -37,14 +37,23 @@
 | 제목 | 작성날짜 | 작성자 |
 |:----|:----|:-----|
 
-# 개발환경
+# DevSetting
 
 | 제목 | 작성날짜 | 작성자 |
 |:----|:----|:-----|
 
-# 스타트업
+# Startup
 
 | 제목 | 작성날짜 | 작성자 |
 |:----|:----|:-----|
+
+[comment]: <> subject hyperlinks 
+[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#java
+[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#spring
+[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#maven
+[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#monitoring
+[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#db
+[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#devsettings
+[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#startup
 
 [1001]: https://hwanseok-dev.tistory.com/5
