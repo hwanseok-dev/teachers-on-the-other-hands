@@ -47,13 +47,14 @@
 | 제목 | 작성날짜 | 작성자 |
 |:----|:----|:-----|
 
-[comment]: <> subject hyperlinks 
+[comment]: <> (subject hyperlinks)  
 [1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#java
-[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#spring
-[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#maven
-[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#monitoring
-[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#db
-[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#devsettings
-[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#startup
+[2]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#spring
+[3]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#maven
+[4]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#monitoring
+[5]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#db
+[6]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#devsettings
+[7]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#startup
 
+[comment]: <> (posts by hwanseok-dev)  
 [1001]: https://hwanseok-dev.tistory.com/5
