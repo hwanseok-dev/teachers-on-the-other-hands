@@ -1,60 +1,66 @@
-# teachers-on-the-other-hands
-백엔드 개발자 스터디 반면교사 | the other hands는 먼저 부딪히고 배운 내용을 정리하고 있는 스터디원들의 손을 뜻합니다.
+# 반면교사(teachers-on-the-other-hands)
 
-# 주제
+개발자로서 성장할 때 속도보다는 `방향`이 더 중요하다고 생각하는 스터디 '반면교사'입니다. teachers-on-the-other-hands는 먼저 부딪히고 배운 내용을 정리하고 있는 멤버들을 의미합니다.  
 
-1. [Java][1]
-2. [Spring][2]
-3. [Maven][3]
-4. [Monitoring][4]
-5. [DB][5]
-6. [DevSetting][6]
-7. [Startup][7]
+# 목적
 
-# Java
+본인과 다른 사람의 잘못된 `구글링`, `질문` 그리고 `삽질`을 거울삼아 **비슷한 문제에 직면했을 때 빠르고 현명하게 해결할 수 있는 능력**을 키운다.  
+
+# 멤버
+
+- [@hwanseok-dev][810] | [와탭랩스][811]
+
+# 상시모집
+
+열정 넘치는 멤버를 상시 모집하고 있습니다. [CONTRIBUTING.md][901]을 확인해주세요. 
+
+# 스터디 진행방식
+
+* 초안입니다. 스터디원들과 상의 후 변경될 수 있습니다.  
+
+1. 공부 주제 선정
+    - 기본적으로 본인이 가장 몰입해서 공부할 수 있는 내용을 공부합니다.
+    - 만약 함께 공부하고 싶은 내용(교재 강의 등)이 있다면 같이 공부할 사람을 스터디 내에서 찾을 수 있습니다.
+1. 공부한 내용 정리
+    - 개인이 원하는 방식으로 정리합니다. 
+        - 글 정리 없이 화면 공유로 설명
+        - 개인 블로그에 포스팅
+        - 개인 깃허브 README에 정리
+    - 단, 스터디 인원들에게 제공할 수 있는 `링크`가 있어야 합니다.(단, 화면공유로 설명하는 것이 더 합리적인 경우 제외)
+1. **화상 미팅 하루 전 23:59분까지**
+    - 자신이 한 주동안 배운 내용을 모두 정리합니다. 
+    - 공유하고 싶은 내용을 `일부 선정`하여 아래와 같이 제목, 작성날짜, 작성자를 적습니다.
+    - 제목에는 mark-down 양식에 따라 1-1, 1-2 등의 번호를 활용해서 링크를 포함시킵니다. {회차 번호}-{발표 순서}
+    - **개인별 발표는 최대 10분입니다.** 
+    - **아직 고민중이고 정리가 되지 못한 경우 발표를 생략할 수 있습니다.**
+    ```
+    // README.md
+    # 1회차 : 2021-04-25
+
+    | 제목 | 작성날짜 | 작성자 |
+    |:----|:----|:-----|
+    | [Eureka에 Security를 적용하기 위한 2가지 설정][1-1] | 2021-04-21 | hwanseok-dev | // 추가할 내용
+
+    [1-1]: https://hwanseok-dev.tistory.com/5                                    // 추가할 내용, 링크 정보는 파일 최하단에 배치
+    ```
+1. 화상 미팅 
+    - 본 파일에 업로드된 순서대로 발표를 진행합니다.
+    - 모든 인원의 발표가 끝난 뒤, 질문답변을 진행합니다.  
+
+# 규칙
+
+1. 호칭은 이름 + 님으로 부른다. ex) 환석님
+1. 화상미팅은 **매주 ??요일 ??시**에 진행한다. ( 협의 중 )  
+
+# 1회차 : 2021-04-25
 
 | 제목 | 작성날짜 | 작성자 |
 |:----|:----|:-----|
+| [Eureka에 Security를 적용하기 위한 2가지 설정][1-1] | 2021-04-21 | hwanseok-dev |
 
-# Spring
+[810]: https://github.com/hwanseok-dev
+[811]: https://www.whatap.io/ko/
 
-| 제목 | 작성날짜 | 작성자 |
-|:----|:----|:-----|
-| [Eureka에 Security를 적용하기 위한 2가지 설정][1001] | 2021-04-21 | hwanseok-dev |
+[901]: ./CONTRIBUTING.md
 
-# Maven
-
-| 제목 | 작성날짜 | 작성자 |
-|:----|:----|:-----|
-
-# Monitoring
-
-| 제목 | 작성날짜 | 작성자 |
-|:----|:----|:-----|
-
-# DB
-
-| 제목 | 작성날짜 | 작성자 |
-|:----|:----|:-----|
-
-# DevSetting
-
-| 제목 | 작성날짜 | 작성자 |
-|:----|:----|:-----|
-
-# Startup
-
-| 제목 | 작성날짜 | 작성자 |
-|:----|:----|:-----|
-
-[comment]: <> (subject hyperlinks)  
-[1]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#java
-[2]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#spring
-[3]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#maven
-[4]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#monitoring
-[5]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#db
-[6]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#devsettings
-[7]: https://github.com/hwanseok-dev/teachers-on-the-other-hands/blob/main/README.md#startup
-
-[comment]: <> (posts by hwanseok-dev)  
-[1001]: https://hwanseok-dev.tistory.com/5
+[1-1]: https://hwanseok-dev.tistory.com/5 
