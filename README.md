@@ -57,6 +57,8 @@
 | 제목 | 작성날짜 | 작성자 |
 |:----|:----|:-----|
 | [Eureka에 Security를 적용하기 위한 2가지 설정][1-1] | 2021-04-21 | hwanseok-dev |
+| [JDK버전, source버전, target버전 그리고 cross compile][1-2] | 2021-04-27 | hwanseok-dev |
+
 
 [810]: https://github.com/hwanseok-dev
 [811]: https://www.whatap.io/ko/
@@ -64,3 +66,4 @@
 [901]: ./CONTRIBUTING.md
 
 [1-1]: https://hwanseok-dev.tistory.com/5 
+[1-2]: https://hwanseok-dev.tistory.com/18
