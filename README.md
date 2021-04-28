@@ -59,6 +59,7 @@
 | [Eureka에 Security를 적용하기 위한 2가지 설정][1-1] | 2021-04-21 | hwanseok-dev |
 | [JDK버전, source버전, target버전 그리고 cross compile][1-2] | 2021-04-27 | hwanseok-dev |
 | [[서비스] url이 유효한지 판단하는 방법][1-3] | 2021-04-26 | seungyeonchoi |
+| [Jenkins Master/Slave Node 구성][1-4] | 2021-04-28 | doontagi |
 
 
 [810]: https://github.com/hwanseok-dev
@@ -69,3 +70,4 @@
 [1-1]: https://hwanseok-dev.tistory.com/5 
 [1-2]: https://hwanseok-dev.tistory.com/18
 [1-3]: https://velog.io/@seungyeon/서비스-url이-유효한지-판단하는-방법
+[1-4]: https://velog.io/@doontagi/Jenkins-Master-Slave-%EA%B5%AC%EC%84%B1
